@@ -1,0 +1,10 @@
+un script qui vas vous permer de génere et crée votre mot de pass facilement
+
+l'étap 1:  tout dabort il faut installer python sur votre pc(si il est windows)
+l'étap 2: clicker sur le fichier  (generateur de mot pass.py)
+l'étap 3:choiser le longeur de votre mot de pass
+l'étap 1:la confirmation(ecrit oui si vous aimee le mot de pass,sinon ecrit non)
+l'étap 5:dans le meme dossie cherchre ou est le nom de votre fichier
+l'étap 6:ouvre votre fichier,vous allez trouver votre mot de pass  
+ 
+ 
